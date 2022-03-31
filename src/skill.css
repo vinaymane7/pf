@@ -1,0 +1,203 @@
+*{
+    font-family: Segoe UI, Segoe UI Midlevel, Segoe WP, Arial, sans-serif;
+}
+
+.baap{
+    padding-left: 30px;
+    padding-right: 30px;
+    /* color: white;
+    /* background-color: black; */
+    /* background-image: url(/images/veeterzy-sMQiL_2v4vs-unsplash.jpg); */
+    background-size: cover;
+}
+
+.skill-nav{
+    font-size:  60px;
+    height: 100px;
+    padding-top: 150px;
+    margin: 30px;
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.568); */
+    background-image: url(/images/skill.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.skill-core-title{
+    text-align: end;
+    font-size: 40px;
+}
+
+.skill-box{
+    border-style: solid;
+    border-left: 0ch;
+    border-right: 0ch;
+    border-bottom: 0ch;
+    display: flex;
+    /* background-color: bisque; */
+    padding-bottom: 50px;
+}
+
+.skill-name{
+    width: 30%;
+    border-style: solid;
+    border-left: 0ch;
+    border-top: 0ch;
+    border-bottom: 0ch; 
+    margin: 30px;
+    font-size: 50px;
+    /* background-color: beige; */
+
+    
+}
+
+/* .skill-name p{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+} */
+
+
+
+
+.skill-desc{
+    margin: 30px;
+    font-size: 30px;
+    /* background-color: aqua; */
+    
+}
+
+.skill-desc p{
+    /* margin-top: 5px; */
+    margin-bottom: 5px;
+}
+
+.skill-box-lang{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    border-style: solid;
+    border-bottom: 0ch;
+    border-left: 0ch;
+    border-right: 0ch;
+}
+
+.skill-lang{
+    /* margin: 30px; */
+    font-size: 30px;
+    margin: 10px;
+    margin-left: 70px
+}
+
+.skill-img{
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 150px;
+}
+
+.img-fastapi{
+    /* background-color: aqua; */
+    background-image: url("https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png");
+}
+
+.img-flask{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/330px-Flask_logo.svg.png");
+}
+
+
+.skill-img{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    width: 200px;
+}
+
+.skill-name{
+    width: 30%;
+    border-style: solid;
+    border-left: 0ch;
+    border-top: 0ch;
+    border-bottom: 0ch; 
+    /* margin: 30px; */
+    font-size: 50px;
+    /* background-color: beige; */
+}
+
+.skill-name p{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    /* background-color: aqua; */
+    }
+
+    .skill-name{
+        margin-top: 100px;
+        /* background-color: antiquewhite; */
+        width: 100px;
+        padding-right: 100px;
+    }
+
+   
+
+    .skill-name-ln{
+        margin-bottom: 100px;
+    }
+
+    .skill-core-title{
+        margin-top: 70px;
+    }
+
+    .skill-lang{
+        /* margin: 30px; */
+        font-size: 30px;
+        margin: 10px;
+    }
+
+
+@media screen and (max-width: 992px) {
+
+    .skill-name p{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    /* background-color: aqua; */
+    }
+
+    .skill-name{
+        width: 30%;
+        border-style: solid;
+        border-left: 0ch;
+        border-top: 0ch;
+        border-bottom: 0ch; 
+        /* margin: 30px; */
+        font-size: 50px;
+        /* background-color: beige; */
+        padding-right: 0px;
+    }
+
+    .skill-name{
+        margin-top: 100px;
+    }
+
+   
+
+    .skill-name-ln{
+        margin-bottom: 100px;
+    }
+
+    .skill-core-title{
+        margin-top: 70px;
+    }
+
+    .skill-lang{
+        /* margin: 30px; */
+        font-size: 30px;
+        margin: 10px;
+    }
+}

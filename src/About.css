@@ -1,0 +1,96 @@
+.about-nav{
+    font-size:  60px;
+    height: 140px;
+    /* padding-top: 150px; */
+    margin: 30px;
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.568); */
+    background-image: url(/images/about.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.about-body{
+    margin: 20px;
+    /* background-color: rgb(12, 154, 248); */
+    /* background-image: url(/images/jonatan-pie-3l3RwQdHRHg-unsplash.jpg); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+
+}
+
+.about-col{
+    /* background-color: rgb(232, 248, 251); */
+    display: flex;
+}
+
+.about-body-img{
+    height: 640px;
+    width: 480px;
+    background-image: url(/images/simon-lee-ycIovp6d844-unsplash.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: rgb(26, 26, 27); */
+    border-radius: 40px;
+    margin: 4%;
+}
+.about-body-cont{
+    width: 50%;
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+}
+
+.about-body-cont-hed{
+    font-size: 70px;
+    /* margin: 40px; */
+    /* background-color: aqua; */
+    text-align: center;
+    /* margin-top: 100px; */
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    /* background-color: aqua; */
+    height: fit-content;
+}
+
+.about-body-cont-data{
+    font-size: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+    line-height: 50px;
+}
+
+@media screen and (max-width: 992px) {
+    .about-col{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .about-body-img{
+        margin: 0%;
+        height: 500px;
+        width: 375px;
+        background-color: aqua;
+        border-radius: 40px;
+    }
+
+    .about-body-cont-data{
+        margin: 2px;
+        font-size: 17px;
+        line-height: 35px;
+    }
+
+ 
+
+    .about-body-cont{
+        width: 100%;
+        margin-top: 50px;
+    }
+}
