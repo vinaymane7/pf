@@ -3,25 +3,37 @@
 }
 
 .baap{
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
     /* color: white;
     /* background-color: black; */
     /* background-image: url(/images/veeterzy-sMQiL_2v4vs-unsplash.jpg); */
+    /* background-size: cover; */
+
+    background-image: url(/images/and-machines-vqTWfa4DjEk-unsplash.jpg);
     background-size: cover;
+    color: white;
 }
 
 .skill-nav{
     font-size:  60px;
-    height: 100px;
+    height: 150px;
     padding-top: 150px;
     margin: 30px;
     text-align: center;
     /* background-color: rgba(0, 0, 0, 0.568); */
-    background-image: url(/images/skill.svg);
+    background-image: url(/images/skill.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+}
+
+.skill-core{
+    /* background-image: url(/images/and-machines-vqTWfa4DjEk-unsplash.jpg);
+    background-size: cover;
+    color: white; */
+    /* padding: 15px; */
+
 }
 
 .skill-core-title{
@@ -150,6 +162,7 @@
 
     .skill-core-title{
         margin-top: 70px;
+        margin-right: 25px;
     }
 
     .skill-lang{

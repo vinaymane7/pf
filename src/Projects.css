@@ -1,3 +1,12 @@
+.Zpp{
+    /* background-image: url(/images/gradienta-rKv4HduvzIE-unsplash.jpg); */
+    background-size: cover; 
+    /* background-color: black; */
+    /* color: rgb(198, 94, 214); */
+    padding-top: 1px;
+    padding-bottom: 150px;
+}
+
 .project{
     display: flex;
     margin-top: 300px;
@@ -6,6 +15,8 @@
     /* color: white;
     padding-top: 30px;
     padding-bottom: 30px; */
+
+
 
 }
 

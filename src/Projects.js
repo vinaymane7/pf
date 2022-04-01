@@ -2,7 +2,7 @@ import './Projects.css'
 
 function Projects() {
     return (
-      <div className="App">
+      <div className="Zpp">
 
           <div class = 'project'>
 
