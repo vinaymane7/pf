@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/pf/static/css/main.32a1e330.css",
-    "main.js": "/pf/static/js/main.66ef7443.js",
+    "main.css": "/pf/static/css/main.d86d2dfd.css",
+    "main.js": "/pf/static/js/main.d92bd16a.js",
     "static/js/787.9b1da57c.chunk.js": "/pf/static/js/787.9b1da57c.chunk.js",
-    "static/media/skill.svg": "/pf/static/media/skill.f5e15abdaa7bcf3840bd.svg",
+    "static/media/and-machines-vqTWfa4DjEk-unsplash.jpg": "/pf/static/media/and-machines-vqTWfa4DjEk-unsplash.e13299d6ce5b2fd03bb1.jpg",
     "static/media/about.svg": "/pf/static/media/about.a24518aabf081ebb5848.svg",
     "static/media/jonatan-pie-3l3RwQdHRHg-unsplash.jpg": "/pf/static/media/jonatan-pie-3l3RwQdHRHg-unsplash.172c410eddd80594515b.jpg",
     "static/media/52-27-22-225217.png": "/pf/static/media/52-27-22-225217.f90cba588ee9d478552c.png",
@@ -11,12 +11,12 @@
     "static/media/39-27-22-193939.png": "/pf/static/media/39-27-22-193939.846546ca07242954cbc8.png",
     "static/media/logo.svg": "/pf/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pf/index.html",
-    "main.32a1e330.css.map": "/pf/static/css/main.32a1e330.css.map",
-    "main.66ef7443.js.map": "/pf/static/js/main.66ef7443.js.map",
+    "main.d86d2dfd.css.map": "/pf/static/css/main.d86d2dfd.css.map",
+    "main.d92bd16a.js.map": "/pf/static/js/main.d92bd16a.js.map",
     "787.9b1da57c.chunk.js.map": "/pf/static/js/787.9b1da57c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32a1e330.css",
-    "static/js/main.66ef7443.js"
+    "static/css/main.d86d2dfd.css",
+    "static/js/main.d92bd16a.js"
   ]
 }
