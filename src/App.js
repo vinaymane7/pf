@@ -6,9 +6,9 @@ function App() {
     <div className="App">
         <div class="intro">
             <div class="nav">
-                <div class="nav-con">About</div>
-                <div class="nav-con">Projects</div>
-                <div class="nav-con">Skills</div>
+                <div class="nav-con"> <a href='#-about'>About</a> </div>
+                <div class="nav-con"> <a href='#skilll'>Skills</a></div>
+                <div class="nav-con"> <a href='#pro'>Projects</a></div>
             </div>
             <div class="intro-data">
                 <p class="intro-data-1">Hey, I'm Vinay</p>

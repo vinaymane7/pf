@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+}
+
+.contact-body{
+    height: 90vh;
+    background-color: aqua;
+}
+
+.contact-title{
+    background-color: rgb(23, 142, 39);
+}
+
+.contact-title div{
+    padding-left: 20%;
+    font-size: 70px;
+}

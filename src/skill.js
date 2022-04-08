@@ -3,7 +3,7 @@ import './skill.css';
 
 function Skill() {
   return (
-    <div className="baap">
+    <div className="baap" id='skilll'>
         <div class="skill-nav">
             {/* <p>I Work With</p> */}
         </div>

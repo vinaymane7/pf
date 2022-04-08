@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import Skill from './skill';
 import About from './About';
 import Projects from './Projects';
+import Contact from './Contact';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -13,6 +14,7 @@ ReactDOM.render(
     <About />
     <Skill />
     <Projects />
+    {/* <Contact /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

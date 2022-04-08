@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
         {/* <div class = "about-nav"></div> */}
-        <div class = "about-body ">
+        <div class = "about-body" id='-about'>
             <div class = "about-col">
                 <div class="about-body-img"></div>
                 <div class="about-body-cont">
